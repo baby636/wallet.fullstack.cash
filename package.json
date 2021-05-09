@@ -21,7 +21,7 @@
     "test": "npm run lint"
   },
   "dependencies": {
-    "@capacitor/android": "^2.4.6",
+    "@capacitor/android": "^2.4.7",
     "@capacitor/cli": "^2.4.6",
     "@capacitor/core": "^2.4.6",
     "gatsby": "^2.31.1",
